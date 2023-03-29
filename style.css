@@ -157,7 +157,7 @@ button:active {
 
 @media (max-width: 1000px) {
 #calculator{
-    max-width: 75vw;
+    max-width: 95vw;
     max-height: 100%;
 }
 #result{
@@ -179,8 +179,8 @@ svg{
 }
 
 button,.accent,.submit{
-    width: 5rem;
-    height: 5rem;
+    width: 4rem;
+    height: 4rem;
     font-size: 3rem;
 }
 }
