@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>4x5 Calculator</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="calculator">
+        <div id="result-preview"></div>
+        <input type="text" id="result" value="0" readonly>
+        
+        <table>
+            <tr>
+                
+                <td><button class="button-tinted unselectable" onclick="clearAll()">AC</button></td>
+                <td><button onclick="addPercentage()"><img src="Percent.svg"></button></td>
+                <td><button onclick="addParenthesis()">( )</button></td>
+                <td><button class="accent" onclick="insert('/')"><img src="Divide.svg"></button></td>
+            
+                <td><button onclick="insert('7')">7</button></td>
+                <td><button onclick="insert('8')">8</button></td>
+                <td><button onclick="insert('9')">9</button></td>
+                <td><button class="accent" onclick="insert('*')"><img src="X.svg"></button></td>
+            
+                <td><button onclick="insert('4')">4</button></td>
+                <td><button onclick="insert('5')">5</button></td>
+                <td><button onclick="insert('6')">6</button></td>
+                
+                <td><button class="accent" onclick="insert('-')"><img src="Minus.svg"></button></td>
+            
+                <td><button onclick="insert('1')">1</button></td>
+                <td><button onclick="insert('2')">2</button></td>
+                <td><button onclick="insert('3')">3</button></td>
+                
+                <td><button class="accent" onclick="insert('+')"><img src="Plus.svg"></button></td>
+            
+                <td><button onclick="insert('0')">0</button></td>
+                <td><button onclick="insert('.')">.</button></td>
+                <td><button onclick="deleteLast()" ><img src="delete.png"></button></button></td>
+                <td><button class="submit" onclick="calculate()"><img src="Equals.svg"> </button></td>
+                
+            </tr>
+            
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
