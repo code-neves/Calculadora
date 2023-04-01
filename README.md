@@ -6,9 +6,7 @@
 [![Thumbnail](https://user-images.githubusercontent.com/127349682/229259147-a35d41dc-3a9a-4c0c-b1e9-abe966640c8e.png)](https://user-images.githubusercontent.com/127349682/229249117-bc3e691d-ac26-4d13-92a3-7aa68f9d285c.mp4)    
 
 
-![Thumbnail 1](https://user-images.githubusercontent.com/127349682/229258764-f920d934-da4e-4d1d-a9a4-059192146a15.png)
 
-![Group 1](https://user-images.githubusercontent.com/127349682/229259147-a35d41dc-3a9a-4c0c-b1e9-abe966640c8e.png)
 
 ### 📱 Funções
 
