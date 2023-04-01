@@ -3,6 +3,8 @@
 <h3 align="center">Interface de uma calculadora feito para testar minha habilidade com front-end. </h3>
  
 
+[![Now in Android: 55](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://user-images.githubusercontent.com/127349682/229249117-bc3e691d-ac26-4d13-92a3-7aa68f9d285c.mp4)    
+
 https://user-images.githubusercontent.com/127349682/229249117-bc3e691d-ac26-4d13-92a3-7aa68f9d285c.mp4
 
 
