@@ -1,6 +1,6 @@
 <h1 align="center"> Calculadora </h1>
 
-<h3 align="center">Interface de uma calculadora feito para testar minha habilidade com front-end. </h3>
+<h3 align="center">Interface de uma calculadora feita para testar minha habilidade com front-end. </h3>
  
 
 [![Thumbnail](https://user-images.githubusercontent.com/127349682/229259147-a35d41dc-3a9a-4c0c-b1e9-abe966640c8e.png)](https://user-images.githubusercontent.com/127349682/229249117-bc3e691d-ac26-4d13-92a3-7aa68f9d285c.mp4)    
