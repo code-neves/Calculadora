@@ -3,7 +3,7 @@
 <h3 align="center">Interface de uma calculadora feito para testar minha habilidade com front-end. </h3>
  
 
-[![Thumbnail](https://user-images.githubusercontent.com/127349682/229258415-d19ee689-f853-4a1e-ac4e-1e23db35acb4.png) width="50"](https://user-images.githubusercontent.com/127349682/229249117-bc3e691d-ac26-4d13-92a3-7aa68f9d285c.mp4)    
+[![Thumbnail](https://user-images.githubusercontent.com/127349682/229258569-d174b29b-e506-4b95-b1eb-449888ddb10a.png) width="50"](https://user-images.githubusercontent.com/127349682/229249117-bc3e691d-ac26-4d13-92a3-7aa68f9d285c.mp4)    
 
 
 
