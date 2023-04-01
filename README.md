@@ -25,7 +25,7 @@ As seguintes ferramentas foram usadas no projeto:
 - Tema branco e prioridade no contraste.
 - Teclas redondas simulando teclados mecânicos.
 
-
+https://code-neves.github.io/Calculadora/
 
 
 <h2 align="center">   🍇 Inspiração < > projeto final ✨ </h2>
@@ -35,6 +35,6 @@ As seguintes ferramentas foram usadas no projeto:
 
 
 
-<br>
-https://code-neves.github.io/Calculadora/
+
+
 
