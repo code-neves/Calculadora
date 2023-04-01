@@ -38,5 +38,5 @@ As seguintes ferramentas foram usadas no projeto:
 
 
 
-<p align="center">https://code-neves.github.io/Calculadora/
+<p align="center">https://code-neves.github.io/calculadora/
 
